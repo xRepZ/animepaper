@@ -1,7 +1,6 @@
 from http.client import HTTPException
 import requests
 from . import image
-from typing import List
 
 
 class PictureDownloader:
